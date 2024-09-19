@@ -1,4 +1,5 @@
 # WallpaperApp
+https://github.com/chthai64/SwipeRevealLayout
 android:background="#CCCCCC"
 private var tongTien = 10000
     private var isButton1Active = false
